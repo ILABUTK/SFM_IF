@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.ilab.sfm_if" version="1.0.0">
   <name>SFM</name>
-  <description>Speak For Myself App.</description>
+  <description>Speak For Myself App (IF Version) </description>
   <author href="http://ilab.engr.utk.edu/hits/" email="ilab.utk@gmail.com">Xueping Li</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
